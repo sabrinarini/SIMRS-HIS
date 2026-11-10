@@ -69,6 +69,3 @@ Dashboard role-specific · Pendaftaran & Antrean · Master Patient Index · Appo
 4. Schema compatibility akan memastikan tabel penting tersedia pada database lama; aplikasi tidak melakukan DROP database otomatis.
 5. Untuk clean installation, import `database/hospital.sql` satu kali lewat phpMyAdmin.
 6. Setelah login Administrator, buka `System Health`.
-
-## Catatan akademik
-Ini adalah simulasi untuk UTS/akademik, bukan perangkat lunak klinis untuk penggunaan pasien nyata. Threshold vital dan data demo digunakan untuk menunjukkan konsep SIMRS/HIS dan bukan instruksi diagnosis atau terapi.
